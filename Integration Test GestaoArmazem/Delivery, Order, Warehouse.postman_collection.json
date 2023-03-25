@@ -1,0 +1,1025 @@
+{
+	"info": {
+		"_postman_id": "5d62babe-8c0d-45ed-90a9-270bfcbec590",
+		"name": "Delivery, Order, Warehouse",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17965075"
+	},
+	"item": [
+		{
+			"name": "Deliveries",
+			"item": [
+				{
+					"name": "Create Delivery",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 201 Delivery created\", function () {",
+									"    pm.response.to.have.status(201);",
+									"});",
+									"",
+									"//keep id for later requests",
+									"pm.globals.set(\"delivery1_id\", responseJson.id); ",
+									"",
+									"",
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"DeliveryDate\": \"07-11-2022\",\n    \"Mass\": 12,\n    \"LoadTime\": 10,\n    \"UnloadTime\": 20\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/api/Deliveries",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Deliveries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Delivery By Id",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"Check same id\", function() {",
+									"    pm.expect(responseJson.id).to.eql(pm.globals.get(\"delivery1_id\"));",
+									"});",
+									"",
+									"",
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/Deliveries/{{delivery1_id}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Deliveries",
+								"{{delivery1_id}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Deliveries",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/Deliveries",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Deliveries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Delivery",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200 Delivery updated\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"Check same id\", function() {",
+									"    pm.expect(responseJson.id).to.eql(pm.globals.get(\"delivery1_id\"));",
+									"});",
+									"",
+									"pm.test(\"Check same date\", function() {",
+									"    pm.expect(responseJson.DeliveryDate).to.eql(\"16-11-2022\");    ",
+									"});",
+									"",
+									"pm.test(\"Check same LoadTime\", function() {",
+									"    pm.expect(responseJson.DeliveryDate).to.eql(20);    ",
+									"});",
+									"",
+									"pm.test(\"Check same UnloadTime\", function() {",
+									"    pm.expect(responseJson.DeliveryDate).to.eql(30);    ",
+									"});",
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"DeliveryDate\": \"16-11-2022\",\n    \"Mass\": 20,\n    \"LoadTime\": 20,\n    \"UnloadTime\": 30\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/api/Deliveries/{{delivery1_id}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Deliveries",
+								"{{delivery1_id}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "SOFT Delete Delivery",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200 Delivery updated\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"Check same id\", function() {",
+									"    pm.expect(responseJson.id).to.eql(pm.globals.get(\"delivery1_id\"));",
+									"});",
+									"/*",
+									"pm.test(\"Check inactive\", function() {",
+									"    expect(responseJson.Active).to.eql(false);    ",
+									"});",
+									"*/",
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/api/Deliveries/{{delivery1_id}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Deliveries",
+								"{{delivery1_id}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "HARD Delete Delivery",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200 Delivery updated\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"Check same id\", function() {",
+									"    pm.expect(responseJson.id).to.eql(pm.globals.get(\"delivery1_id\"));",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/api/Deliveries/{{delivery1_id}}/hard",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Deliveries",
+								"{{delivery1_id}}",
+								"hard"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Delivery = NOTFOUND",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 404\", function () {",
+									"    pm.response.to.have.status(404);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/Deliveries/{{delivery1_id}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Deliveries",
+								"{{delivery1_id}}"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Orders",
+			"item": [
+				{
+					"name": "Create Order",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 201 Order created\", function () {",
+									"    pm.response.to.have.status(201);",
+									"});",
+									"",
+									"//keep id for later requests",
+									"pm.globals.set(\"order1_id\", responseJson.id); ",
+									"",
+									"",
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"Description\": \"OrderDescription\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/api/Orders",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Order By Id",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"Check same id\", function() {",
+									"    pm.expect(responseJson.id).to.eql(pm.globals.get(\"order1_id\"));",
+									"});",
+									"",
+									"",
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/Orders/{{order1_id}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Orders",
+								"{{order1_id}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Orders",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/Orders",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Order",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200 Order updated\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"Check same id\", function() {",
+									"    pm.expect(responseJson.id).to.eql(pm.globals.get(\"order1_id\"));",
+									"});",
+									"",
+									"pm.test(\"Check same description\", function() {",
+									"    pm.expect(responseJson.Description).to.eql(\"OrderDescription1\");",
+									"});",
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"Description\": \"OrderDescription1\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/api/Orders/{{order1_id}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Orders",
+								"{{order1_id}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "SOFT Delete Order",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200 Order updated\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"Check same id\", function() {",
+									"    pm.expect(responseJson.id).to.eql(pm.globals.get(\"order1_id\"));",
+									"});",
+									"/*",
+									"pm.test(\"Check inactive\", function() {",
+									"    expect(responseJson.Active).to.eql(false);    ",
+									"});",
+									"*/",
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/api/Orders/{{order1_id}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Orders",
+								"{{order1_id}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "HARD Delete Order",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200 Order updated\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"Check same id\", function() {",
+									"    pm.expect(responseJson.id).to.eql(pm.globals.get(\"order1_id\"));",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/api/Orders/{{order1_id}}/hard",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Orders",
+								"{{order1_id}}",
+								"hard"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Order = NOTFOUND",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 404\", function () {",
+									"    pm.response.to.have.status(404);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/Orders/{{order1_id}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Orders",
+								"{{order1_id}}"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Warehouses",
+			"item": [
+				{
+					"name": "Create Warehouse",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 201 Delivery created\", function () {",
+									"    pm.response.to.have.status(201);",
+									"});",
+									"",
+									"//keep id for later requests",
+									"pm.globals.set(\"warehouse1_id\", responseJson.id);",
+									"",
+									"",
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"WarehouseAddress\": \"Rua do Warehouse\",\n    \"WarehouseDesignation\": \"Designação do Warehouse\",\n    \"WarehouseGeoCoord\": \"49°30'N, 123°30'W\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/api/Warehouses",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Warehouses"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Warehouse By Id",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"Check same id\", function() {",
+									"    pm.expect(responseJson.id).to.eql(pm.globals.get(\"warehouse1_id\"));",
+									"});",
+									"",
+									"",
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/Warehouses/{{warehouse1_id}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Warehouses",
+								"{{warehouse1_id}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Warehouse",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/Warehouses",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Warehouses"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Warehouse",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200 Delivery updated\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"Check same id\", function() {",
+									"    pm.expect(responseJson.id).to.eql(pm.globals.get(\"warehouse1_id\"));",
+									"});",
+									"",
+									"pm.test(\"Check same adress\", function() {",
+									"    pm.expect(responseJson.WarehouseAddress).to.eql(\"Rua do Warehouse2\");    ",
+									"});",
+									"",
+									"pm.test(\"Check same designation\", function() {",
+									"    pm.expect(responseJson.WarehouseDesignation).to.eql(\"Designação do Warehouse2\");    ",
+									"});",
+									"",
+									"pm.test(\"Check same geocoord\", function() {",
+									"    pm.expect(responseJson.WarehouseGeoCoord).to.eql(\"50°30'N, 123°30'W\");    ",
+									"});",
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"WarehouseAddress\": \"Rua do Warehouse2\",\n    \"WarehouseDesignation\": \"Designação do Warehouse2\",\n    \"WarehouseGeoCoord\": \"50°30'N, 123°30'W\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/api/Warehouses/{{warehouse1_id}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Warehouses",
+								"{{warehouse1_id}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "SOFT Delete Warehouse",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200 Delivery updated\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"Check same id\", function() {",
+									"    pm.expect(responseJson.id).to.eql(pm.globals.get(\"warehouse1_id\"));",
+									"});",
+									"/*",
+									"pm.test(\"Check inactive\", function() {",
+									"    expect(responseJson.Active).to.eql(false);    ",
+									"});",
+									"*/",
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/api/Warehouses/{{warehouse1_id}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Warehouses",
+								"{{warehouse1_id}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "HARD Delete Warehouse",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 200 Delivery updated\", function () {",
+									"    pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"Check same id\", function() {",
+									"    pm.expect(responseJson.id).to.eql(pm.globals.get(\"warehouse1_id\"));",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}/api/Warehouses/{{warehouse1_id}}/hard",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Warehouses",
+								"{{warehouse1_id}}",
+								"hard"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Warehouse = NOTFOUND",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const responseJson = pm.response.json();",
+									"",
+									"// Code Passed",
+									"pm.test(\"Status code is 404\", function () {",
+									"    pm.response.to.have.status(404);",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/Warehouses/{{warehouse1_id}}",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"Warehouses",
+								"{{warehouse1_id}}"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"variable": [
+		{
+			"key": "baseUrl",
+			"value": "https://localhost:5001"
+		}
+	]
+}

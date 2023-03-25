@@ -1,0 +1,530 @@
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/appsettings.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Integration Test GestaoArmazem/Delivery, Order, Warehouse.postman_collection.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/DDDNetCore.exe
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/DDDNetCore.deps.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/DDDNetCore.runtimeconfig.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/DDDNetCore.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/DDDNetCore.pdb
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Castle.Core.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Humanizer.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Moq.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/MySqlConnector.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/DDDNetCore.csproj.AssemblyReference.cache
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/DDDNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/DDDNetCore.AssemblyInfoInputs.cache
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/DDDNetCore.AssemblyInfo.cs
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/DDDNetCore.csproj.CoreCompileInputs.cache
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/DDDNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/scopedcss/bundle/DDDNetCore.styles.css
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/DDDNetCore.csproj.CopyComplete
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/DDDNetCore.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/refint/DDDNetCore.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/DDDNetCore.pdb
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/DDDNetCore.genruntimeconfig.cache
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/gestaoArmazens/delivery_api_services/obj/Debug/net6.0/ref/DDDNetCore.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/DDDNetCore.csproj.AssemblyReference.cache
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/DDDNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/DDDNetCore.AssemblyInfoInputs.cache
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/DDDNetCore.AssemblyInfo.cs
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/DDDNetCore.csproj.CoreCompileInputs.cache
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/DDDNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/DDDNetCore.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/refint/DDDNetCore.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/DDDNetCore.pdb
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/testhost.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/appsettings.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Integration Test GestaoArmazem/Delivery, Order, Warehouse.postman_collection.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/testhost.exe
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/DDDNetCore.exe
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/DDDNetCore.deps.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/DDDNetCore.runtimeconfig.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/DDDNetCore.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/DDDNetCore.pdb
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Castle.Core.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Humanizer.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Moq.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/MySqlConnector.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/NuGet.Frameworks.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/nunit.framework.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/scopedcss/bundle/DDDNetCore.styles.css
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/DDDNetCore.csproj.CopyComplete
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/DDDNetCore.genruntimeconfig.cache
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/obj/Debug/net6.0/ref/DDDNetCore.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/NUnit.VisualStudio.TestAdapter.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Mono.Cecil.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Mono.Cecil.Mdb.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Mono.Cecil.Pdb.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/Mono.Cecil.Rocks.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/nunit.core.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/nunit.core.interfaces.dll
+C:/Users/ruben/Desktop/ARQSI LAPR5 .NET/delivery_api_services/bin/Debug/net6.0/nunit.util.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/NUnit.VisualStudio.TestAdapter.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Mono.Cecil.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Mono.Cecil.Mdb.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Mono.Cecil.Pdb.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Mono.Cecil.Rocks.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/nunit.core.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/nunit.core.interfaces.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/nunit.util.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/appsettings.Development.json
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/appsettings.json
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Integration Test GestaoArmazem/Delivery, Order, Warehouse.postman_collection.json
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/DDDNetCore
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/DDDNetCore.deps.json
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/DDDNetCore.runtimeconfig.json
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/DDDNetCore.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/DDDNetCore.pdb
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Castle.Core.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Humanizer.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/testhost.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Moq.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/MySqlConnector.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/nunit.framework.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/DDDNetCore.csproj.AssemblyReference.cache
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/DDDNetCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/DDDNetCore.AssemblyInfoInputs.cache
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/DDDNetCore.AssemblyInfo.cs
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/DDDNetCore.csproj.CoreCompileInputs.cache
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/DDDNetCore.MvcApplicationPartsAssemblyInfo.cache
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/staticwebassets.build.json
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/staticwebassets.development.json
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/scopedcss/bundle/DDDNetCore.styles.css
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/DDDNetCore.csproj.CopyComplete
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/DDDNetCore.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/refint/DDDNetCore.dll
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/DDDNetCore.pdb
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/DDDNetCore.genruntimeconfig.cache
+/Users/tiagoandre/Desktop/lei22_23_s5_3dc_016_.net/obj/Debug/net6.0/ref/DDDNetCore.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\testhost.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Mono.Cecil.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Mono.Cecil.Mdb.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Mono.Cecil.Pdb.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Mono.Cecil.Rocks.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\nunit.core.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\nunit.core.interfaces.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\nunit.util.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\testhost.exe
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\appsettings.json
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Integration Test GestaoArmazem\Delivery, Order, Warehouse.postman_collection.json
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\DDDNetCore.exe
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\DDDNetCore.deps.json
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\DDDNetCore.runtimeconfig.json
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\DDDNetCore.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\DDDNetCore.pdb
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Moq.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\DDDNetCore.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\DDDNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\DDDNetCore.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\DDDNetCore.AssemblyInfo.cs
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\DDDNetCore.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\DDDNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\scopedcss\bundle\DDDNetCore.styles.css
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\DDDNetCore.csproj.CopyComplete
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\DDDNetCore.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\refint\DDDNetCore.dll
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\DDDNetCore.pdb
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\DDDNetCore.genruntimeconfig.cache
+C:\Users\ruben\Desktop\ARQSI LAPR5 .NET\obj\Debug\net6.0\ref\DDDNetCore.dll
